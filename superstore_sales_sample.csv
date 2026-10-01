@@ -1,0 +1,37 @@
+Order Date,Region,Category,Product,Sales
+2026-01-05,West,Technology,Laptop,1200
+2026-01-12,East,Furniture,Chair,450
+2026-01-18,Central,Office Supplies,Paper,180
+2026-01-25,South,Technology,Phone,850
+2026-02-03,West,Furniture,Table,700
+2026-02-11,East,Office Supplies,Binders,260
+2026-02-19,Central,Technology,Monitor,520
+2026-02-27,South,Furniture,Bookcase,630
+2026-03-04,West,Office Supplies,Storage,390
+2026-03-15,East,Technology,Printer,480
+2026-03-22,Central,Furniture,Chair,560
+2026-03-29,South,Office Supplies,Paper,210
+2026-04-06,West,Technology,Laptop,1350
+2026-04-14,East,Furniture,Table,760
+2026-04-21,Central,Office Supplies,Binders,300
+2026-04-28,South,Technology,Phone,920
+2026-05-05,West,Furniture,Bookcase,680
+2026-05-13,East,Office Supplies,Storage,410
+2026-05-20,Central,Technology,Monitor,590
+2026-05-27,South,Furniture,Chair,490
+2026-06-03,West,Office Supplies,Paper,230
+2026-06-11,East,Technology,Printer,510
+2026-06-18,Central,Furniture,Table,820
+2026-06-26,South,Office Supplies,Binders,275
+2026-07-04,West,Technology,Phone,880
+2026-07-12,East,Furniture,Chair,470
+2026-07-19,Central,Office Supplies,Storage,430
+2026-07-27,South,Technology,Laptop,1280
+2026-08-05,West,Furniture,Bookcase,720
+2026-08-13,East,Office Supplies,Paper,195
+2026-08-20,Central,Technology,Monitor,610
+2026-08-28,South,Furniture,Table,790
+2026-09-06,West,Office Supplies,Binders,285
+2026-09-14,East,Technology,Printer,525
+2026-09-21,Central,Furniture,Chair,515
+2026-09-29,South,Office Supplies,Storage,445
